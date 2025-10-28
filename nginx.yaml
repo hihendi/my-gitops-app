@@ -5,7 +5,7 @@ metadata:
   name: nginx-index-html
 data:
   index.html: |
-    Ini tampilan dari NGINX dan nama saya Hendi Irwanto.
+    Ini tampilan update dari NGINX dan nama saya Hendi Irwanto.
 ---
 # Deployment
 apiVersion: apps/v1
